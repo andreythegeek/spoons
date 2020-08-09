@@ -1,4 +1,4 @@
-Set of Hammerspoon scripts.
+My collection of snippets for Hammerspoon.
 
 ### Keys
 
